@@ -1,3 +1,4 @@
+![Header](./header.png)
 <h1 align="center">Hi 👋, I'm Sourav Singh</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGIyYzhpdHR0MTkzZHY0NGZzZTcwZ2Q4ZWdkOGlrbzV4d3luNXM4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif">
